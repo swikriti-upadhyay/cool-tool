@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.uxreality",
+               "sha256_cert_fingerprints": ["B7:B1:C2:E9:27:0C:E6:6F:03:E7:32:0B:5D:64:AF:CC:E5:30:A6:FE:E2:C8:3E:ED:78:68:9D:88:D8:56:19:61"] }
+}]
